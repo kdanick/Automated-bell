@@ -61,4 +61,4 @@ This project is open-source. Feel free to modify and use it for your own project
 
 ---
 
-### Created by [Kirenga Danick]
+### Created by [KDanick]
